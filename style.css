@@ -17,7 +17,7 @@ bottom: 0;
 left: 0;
 right: 0;
 margin: auto;
-margin-top: 214px;
+margin-top: 100px;
 
 }
 .container .title {
@@ -229,7 +229,7 @@ background: linear-gradient(90deg, orangered, orange);
             background-size:cover;
             background-image: url(happy\ diwali\ mobile.jpg);
          
-            background-repeat:repeat-y;
+            background-repeat:no-repeat;
             
     
         }
