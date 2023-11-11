@@ -229,7 +229,7 @@ background: linear-gradient(90deg, orangered, orange);
             background-size:cover;
             background-image: url(happy\ diwali\ mobile.jpg);
          
-            background-repeat:no-repeat;
+            background-repeat: repeat-y;
             
     
         }
